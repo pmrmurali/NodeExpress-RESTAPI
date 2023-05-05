@@ -1,0 +1,15 @@
+npm init
+
+npm install -g npm@8.4.1 to update!
+
+npm install express
+
+npm i dotenv
+
+npm i express-async-handler
+
+npm i mongoose
+
+npm i bcrypt
+
+npm i jsonwebtoken
